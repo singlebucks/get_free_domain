@@ -1,14 +1,16 @@
 # get_free_domain
 
-*you will get a domain name like*
+## steps to get a free domain name
 
-**https://yourname.singlebucks.live**
+1. Create a CNAME file in your username.github.io repository
 
-for example
+2. Inside that CNAME named file write **https://yourfirstname.singlebucks.live**
 
-https://aditya.singlebucks.live
+3. Commit it. 
+
+### Congratulations
+
+Now your free Domain is : **https://yourfirstname.singlebucks.live**
 
 
-Write your name below this
 
----
