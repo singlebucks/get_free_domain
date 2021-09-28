@@ -14,14 +14,14 @@
    
    *if you don't have one, create it and put something nice about you.*
 
-7. Inside that CNAME named file write **https://yourfirstname.singlebucks.live**
+7. Inside that CNAME named file write **[https://yourfirstname.singlebucks.live](#)**
 
 8. Commit it. 
 
 ### Congratulations
 
 
-Now your free Domain is : **[https://yourfirstname.singlebucks.live]()**
+Now your free Domain is : **[https://yourfirstname.singlebucks.live](#)**
 
 
 
