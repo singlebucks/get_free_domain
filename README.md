@@ -25,7 +25,16 @@ Now your free Domain is : **[https://yourfirstname.singlebucks.live](#)**
 
 
 
----
+<br><br>
+
+**MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
+
+**Thanks!**
+
+Thank you for being here! You can find my other project **[here](https://github.com/flyingsonu122?tab=repositories)**.
+
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
+
 
 
 
