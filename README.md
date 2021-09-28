@@ -31,7 +31,7 @@ Now your free Domain is : **[https://yourfirstname.singlebucks.live](#)**
 
 <br><br>
 
-**MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
+**&copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
 **Thanks!**
 
