@@ -10,6 +10,8 @@
 
 4. Wait for the Pull Request (PR) to be merged.
 
+**Compulsory steps**
+
 5. Create a CNAME file in your **username.github.io** named repository.
    
    *if you don't have one, create it and put something nice about you.*
