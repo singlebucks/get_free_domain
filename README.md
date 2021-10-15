@@ -1,6 +1,6 @@
-# get_free_domain
+# get free domain
 
-## steps to get a free domain name
+### steps to get a free domain name
 
 1. Fork this repository.
 
@@ -20,14 +20,11 @@
 
 8. Commit it. 
 
-### Congratulations
-
+#### Congratulations
 
 Now your free Domain is : **[https://yourfirstname.singlebucks.live](#)**
 
-
-
-<br><br>
+<br>
 
 ---
 
@@ -40,8 +37,6 @@ Now your free Domain is : **[https://yourfirstname.singlebucks.live](#)**
 Thank you for being here! You can find my other project **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
 [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://linktr.ee/flyingsonu) 
-
-
 
 
 <br><br>
