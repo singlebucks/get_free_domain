@@ -1,4 +1,6 @@
-# get free domain
+# DO you want a free domain?
+
+## get one here
 
 ### steps to get a free domain name
 
